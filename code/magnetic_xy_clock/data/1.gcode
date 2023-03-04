@@ -1,0 +1,110 @@
+;  Created by Sandify
+;  https://sandify.org
+;  Version: 0.2.8
+;
+;  Machine type: Rectangular
+;    Min X (mm): 0
+;    Max X (mm): 100
+;    Min Y (mm): 0
+;    Max Y (mm): 100
+;  Content type: shape
+;  Layer:
+;    Shape: Text
+;    Name: star
+;    Text: 1
+;    Font: Monospace
+;    Rotate: Center
+;    Visible: true
+;    Initial width: 17
+;    Initial height: 16
+;    X offset: -39
+;    Y offset: 0
+;    Rotate (degrees): 0
+;    Reverse path: false
+;    Fine tuning:
+;      Connect to next layer: along perimeter
+;      Draw portion of path (%): 100
+;      Backtrack at end (%): 0
+;      Rotate starting point (%): 0
+;  Reverse export path: false
+;
+; File name: '1'
+; File type: gcode
+;
+
+G1 X0.000 Y0.000
+G1 X0.000 Y17.377
+G1 X0.000 Y24.000
+G1 X0.000 Y30.000
+G1 X20.563 Y30.000
+G1 X9.406 Y30.000
+G1 X9.406 Y72.000
+G1 X9.399 Y71.706
+G1 X9.376 Y71.412
+G1 X9.337 Y71.120
+G1 X9.284 Y70.829
+G1 X9.215 Y70.542
+G1 X9.132 Y70.258
+G1 X9.034 Y69.979
+G1 X8.921 Y69.704
+G1 X8.794 Y69.435
+G1 X8.653 Y69.172
+G1 X8.499 Y68.915
+G1 X8.332 Y68.667
+G1 X8.152 Y68.426
+G1 X7.959 Y68.194
+G1 X7.755 Y67.971
+G1 X7.539 Y67.757
+G1 X7.312 Y67.554
+G1 X7.076 Y67.362
+G1 X6.829 Y67.181
+G1 X6.573 Y67.011
+G1 X6.309 Y66.854
+G1 X6.036 Y66.708
+G1 X5.757 Y66.576
+G1 X5.471 Y66.457
+G1 X5.179 Y66.351
+G1 X4.882 Y66.258
+G1 X4.580 Y66.180
+G1 X4.275 Y66.115
+G1 X3.967 Y66.065
+G1 X3.656 Y66.029
+G1 X3.344 Y66.007
+G1 X3.031 Y66.000
+G1 X3.344 Y66.007
+G1 X3.656 Y66.029
+G1 X3.967 Y66.065
+G1 X4.275 Y66.115
+G1 X4.580 Y66.180
+G1 X4.882 Y66.258
+G1 X5.179 Y66.351
+G1 X5.471 Y66.457
+G1 X5.757 Y66.576
+G1 X6.036 Y66.708
+G1 X6.309 Y66.854
+G1 X6.573 Y67.011
+G1 X6.829 Y67.181
+G1 X7.076 Y67.362
+G1 X7.312 Y67.554
+G1 X7.539 Y67.757
+G1 X7.755 Y67.971
+G1 X7.959 Y68.194
+G1 X8.152 Y68.426
+G1 X8.332 Y68.667
+G1 X8.499 Y68.915
+G1 X8.653 Y69.172
+G1 X8.794 Y69.435
+G1 X8.921 Y69.704
+G1 X9.034 Y69.979
+G1 X9.132 Y70.258
+G1 X9.215 Y70.542
+G1 X9.284 Y70.829
+G1 X9.337 Y71.120
+G1 X9.376 Y71.412
+G1 X9.399 Y71.706
+G1 X9.406 Y72.000
+G1 X9.406 Y30.000
+G1 X0.000 Y30.000
+G1 X0.000 Y24.000
+G1 X23.750 Y24.000
+

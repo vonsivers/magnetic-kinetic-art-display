@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mgpcbw02-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/mgpcbw02-eagle-import.kicad_sym")(options "")(descr ""))
+)
